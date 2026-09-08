@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
-  <rect width="400" height="300" fill="#EFE1BF"/>
-  <g transform="translate(200,118)" fill="none" stroke="#A93B26" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="0" cy="0" r="34" fill="#F1D9CC" stroke="#A93B26"/>
-    <path d="M-12,-14 L-12,14 M-12,-14 C-12,-14 -16,-14 -16,-6 C-16,2 -12,2 -12,2 M12,-14 L12,14 M-2,-14 L-2,0 C-2,4 -6,4 -6,4 M6,-14 L6,14" transform="translate(0,0) scale(0.9)"/>
-  </g>
-  <text x="200" y="180" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="#5A4E3F" text-anchor="middle">Malabon Food Cravings</text>
-  <text x="200" y="204" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="12.5" fill="#7E2A19" text-anchor="middle" letter-spacing="0.5">Photo coming soon</text>
-</svg>
